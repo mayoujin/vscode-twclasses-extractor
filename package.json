@@ -1,5 +1,5 @@
 {
-  "name": "tw-classes-extractor",
+  "name": "vscode-twclasses-extractor",
   "displayName": "twClassesExtractor",
   "description": "Extracting tw classes from HTML and generate CSS stylesheet",
   "version": "1.0.0",
